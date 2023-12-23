@@ -1,6 +1,6 @@
 # Gesture Controlled Jetbot
 
-This repository contains two scripts for controlling a Jetbot: `jetbot_side.py` for the Jetbot side and `client_side.py` for the client side. These scripts enable the Jetbot to be controlled using a gamepad and hand gestures, respectively.
+This repository contains two scripts for controlling a Jetbot: `jetbot_side.py` for the Jetbot side and `client_side.py` for the client side. These scripts enable the Jetbot to be controlled using hand gestures.
 
 ## Dependencies
 
