@@ -11,7 +11,7 @@ This repository contains two scripts for controlling a Jetbot: `jetbot_side.py` 
 ### Usage
 
 1. Run `jetbot_side.ipynb` on the Jetbot.
-2. Run `client_side.py` on a device with camera.
+2. Run `client_side.py` on a device with a camera.
 
 ## client_side.py
 
@@ -27,36 +27,56 @@ This repository contains two scripts for controlling a Jetbot: `jetbot_side.py` 
 
 ### Hand Gestures
 
-1. Forward
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
 
-![](https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/forward.png)
+  <div style="flex: 0 0 30%; margin: 8px;">
+    <figure>
+      <img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/forward.png" alt="Forward" width="100%">
+      <figcaption>Forward</figcaption>
+    </figure>
+  </div>
 
-2. Backward
+  <div style="flex: 0 0 30%; margin: 8px;">
+    <figure>
+      <img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/backward.png" alt="Backward" width="100%">
+      <figcaption>Backward</figcaption>
+    </figure>
+  </div>
 
-![](https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/backward.png)
+  <div style="flex: 0 0 30%; margin: 8px;">
+    <figure>
+      <img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/sleft.png" alt="Short Left Turn" width="100%">
+      <figcaption>Short Left Turn</figcaption>
+    </figure>
+  </div>
+
+  <div style="flex: 0 0 30%; margin: 8px;">
+    <figure>
+      <img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/sright.png" alt="Short Right Turn" width="100%">
+      <figcaption>Short Right Turn</figcaption>
+    </figure>
+  </div>
+
+  <div style="flex: 0 0 30%; margin: 8px;">
+    <figure>
+      <img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/lleft.png" alt="Long Left Turn" width="100%">
+      <figcaption>Long Left Turn</figcaption>
+    </figure>
+  </div>
+
+  <div style="flex: 0 0 30%; margin: 8px;">
+    <figure>
+      <img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/lright.png" alt="Long Right Turn" width="100%">
+      <figcaption>Long Right Turn</figcaption>
+    </figure>
+  </div>
+
+</div>
 
 
-3. Short Left Turn
+#### Demo Video
 
-![](https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/sleft.png)
-
-
-4. Short Right Turn
-
-![](https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/sright.png)
-
-
-5. Long Left Turn
-
-![](https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/lleftpng)
-
-
-6. Long Right Turn
-
-![](https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/lright.png)
-
-
-
+<iframe width="640" height="360" src="https://drive.google.com/file/d/1hnb25JeQzMP0U4jyhdVHA5woU9TRMHZe/preview" frameborder="0" allowfullscreen></iframe>
 
 ## Dependencies
 
@@ -71,6 +91,5 @@ This repository contains two scripts for controlling a Jetbot: `jetbot_side.py` 
   - mediapipe
   - time
   - socket
-
 
 Feel free to explore and use these scripts to enhance your Jetbot experience. If you encounter any issues or have suggestions, please open an issue or pull request. Happy coding!
