@@ -29,31 +29,31 @@ This repository contains two scripts for controlling a Jetbot: `jetbot_side.py` 
 
 1. Forward
 
-![]()
+![](https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/forward.png)
 
 2. Backward
 
-![]()
+![](https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/backward.png)
 
 
 3. Short Left Turn
 
-![]()
+![](https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/sleft.png)
 
 
 4. Short Right Turn
 
-![]()
+![](https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/sright.png)
 
 
 5. Long Left Turn
 
-![]()
+![](https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/lleftpng)
 
 
 6. Long Right Turn
 
-![]()
+![](https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/lright.png)
 
 
 
