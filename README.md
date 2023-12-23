@@ -43,7 +43,7 @@ This repository contains two scripts for controlling a Jetbot: `jetbot_side.py` 
 
 #### Demo Video
 
-<iframe width="640" height="360" src="https://drive.google.com/file/d/1hnb25JeQzMP0U4jyhdVHA5woU9TRMHZe/preview" frameborder="0" allowfullscreen></iframe>
+[<img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/cover.png">](https://drive.google.com/file/d/1hnb25JeQzMP0U4jyhdVHA5woU9TRMHZe/preview)
 
 ## Dependencies
 
