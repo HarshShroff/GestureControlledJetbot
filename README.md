@@ -2,6 +2,20 @@
 
 This repository contains two scripts for controlling a Jetbot: `jetbot_side.py` for the Jetbot side and `client_side.py` for the client side. These scripts enable the Jetbot to be controlled using a gamepad and hand gestures, respectively.
 
+## Dependencies
+
+- For `jetbot_side.py`:
+  - jetbot
+  - traitlets
+  - ipywidgets
+  - opencv-python
+
+- For `client_side.py`:
+  - cv2
+  - mediapipe
+  - time
+  - socket
+
 ## jetbot_side.ipynb
 
 ### Overview
@@ -25,7 +39,7 @@ This repository contains two scripts for controlling a Jetbot: `jetbot_side.py` 
 2. Adjust the `HOST` variable to the Jetbot's IP.
 3. Perform hand gestures in front of the camera to control the Jetbot.
 
-### Hand Gestures
+## Hand Gestures
 
 
 | Forward | Backward | Short Left Turn |
@@ -38,25 +52,9 @@ This repository contains two scripts for controlling a Jetbot: `jetbot_side.py` 
 |<img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/sright.png" alt="Forward" width="100%">|  <img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/lleft.png" alt="Backward" width="100%">|<img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/lright.png" alt="Short Left Turn" width="100%">
 
 
-
-
-
-#### Demo Video
+### Demo Video
 
 [<img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/cover.png">](https://drive.google.com/file/d/1hnb25JeQzMP0U4jyhdVHA5woU9TRMHZe/preview)
 
-## Dependencies
-
-- For `jetbot_side.py`:
-  - jetbot
-  - traitlets
-  - ipywidgets
-  - opencv-python
-
-- For `client_side.py`:
-  - cv2
-  - mediapipe
-  - time
-  - socket
 
 Feel free to explore and use these scripts to enhance your Jetbot experience. If you encounter any issues or have suggestions, please open an issue or pull request. Happy coding!
