@@ -27,51 +27,18 @@ This repository contains two scripts for controlling a Jetbot: `jetbot_side.py` 
 
 ### Hand Gestures
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
 
-  <div style="flex: 0 0 30%; margin: 8px;">
-    <figure>
-      <img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/forward.png" alt="Forward" width="100%">
-      <figcaption>Forward</figcaption>
-    </figure>
-  </div>
+| Forward | Backward | Short Left Turn |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/forward.png" alt="Forward" width="100%">|  <img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/backward.png" alt="Backward" width="100%">|<img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/sleft.png" alt="Short Left Turn" width="100%">
 
-  <div style="flex: 0 0 30%; margin: 8px;">
-    <figure>
-      <img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/backward.png" alt="Backward" width="100%">
-      <figcaption>Backward</figcaption>
-    </figure>
-  </div>
 
-  <div style="flex: 0 0 30%; margin: 8px;">
-    <figure>
-      <img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/sleft.png" alt="Short Left Turn" width="100%">
-      <figcaption>Short Left Turn</figcaption>
-    </figure>
-  </div>
+| Short Right Turn | Long Left Turn | Long Right Turn |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/sright.png" alt="Forward" width="100%">|  <img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/lleft.png" alt="Backward" width="100%">|<img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/lright.png" alt="Short Left Turn" width="100%">
 
-  <div style="flex: 0 0 30%; margin: 8px;">
-    <figure>
-      <img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/sright.png" alt="Short Right Turn" width="100%">
-      <figcaption>Short Right Turn</figcaption>
-    </figure>
-  </div>
 
-  <div style="flex: 0 0 30%; margin: 8px;">
-    <figure>
-      <img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/lleft.png" alt="Long Left Turn" width="100%">
-      <figcaption>Long Left Turn</figcaption>
-    </figure>
-  </div>
 
-  <div style="flex: 0 0 30%; margin: 8px;">
-    <figure>
-      <img src="https://github.com/HarshShroff/GestureControlledJetbot/blob/main/docs/imgs/lright.png" alt="Long Right Turn" width="100%">
-      <figcaption>Long Right Turn</figcaption>
-    </figure>
-  </div>
-
-</div>
 
 
 #### Demo Video
